@@ -1,0 +1,17 @@
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\bin\Debug\net8.0-windows\CAMP_Jeopordy.exe
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\bin\Debug\net8.0-windows\CAMP_Jeopordy.deps.json
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\bin\Debug\net8.0-windows\CAMP_Jeopordy.runtimeconfig.json
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\bin\Debug\net8.0-windows\CAMP_Jeopordy.dll
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\bin\Debug\net8.0-windows\CAMP_Jeopordy.pdb
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.Form1.resources
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.csproj.GenerateResource.cache
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.dll
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\refint\CAMP_Jeopordy.dll
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.pdb
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.genruntimeconfig.cache
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\ref\CAMP_Jeopordy.dll
+C:\Users\ramir\OneDrive\Desktop\CAMP Jeopordy\CAMP_Jeopordy\CAMP_Jeopordy\obj\Debug\net8.0-windows\CAMP_Jeopordy.Properties.Resources.resources
